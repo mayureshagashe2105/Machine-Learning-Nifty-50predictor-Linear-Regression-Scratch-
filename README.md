@@ -2,7 +2,7 @@
 Predicts Nifty-50 Closing Price<br>
 In this end-to-end Machine Learning project-tutorial, I have created and trained a model from scratch, using NumPy, that uses the Linear Regression algorithm to predict the Nifty-50 closing price. This problem is in the domain of <b>Time series analysis</b> but, here it is used to demonstrate application of Linear Regression algorithm.<br>
 <h2>Understanding the Problem Statement</h2>
-For this project, I have used the popular <a href="https://www.kaggle.com/rohanrao/nifty50-stock-market-data?select=WIPRO.csv", target="_blank">WIPRO Nifty-50</a> dataset for training the model and making predictions.<br>
+For this project, I have used the popular <a href="https://www.kaggle.com/rohanrao/nifty50-stock-market-data?select=WIPRO.csv" target="_blank">WIPRO Nifty-50</a> dataset for training the model and making predictions.<br>
 For prediction purpose, only features given in the table below are used. Detailed description about the features is provided within the table.<br><br>
 <table>
 <tr>
@@ -35,7 +35,7 @@ For prediction purpose, only features given in the table below are used. Detaile
 </table>
 
 <h2>Key Project Takeaways</h2>
-This project Provided hands-on experience in real-time data using and on following Machine Learning Techniques:<br>
+This project Provided hands-on experience in real-time data using and on following Machine Learning Techniques:<br><br>
   <ul>Data wrangling for preprocessing and cleaning the training and testing data</ul>
   <ul>Normalizing the data</ul>
   <ul>Building an efficient Regression model from scratch using NumPy</ul>
